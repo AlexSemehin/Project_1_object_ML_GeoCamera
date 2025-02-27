@@ -80,7 +80,7 @@
 *   **Python-скрипт:** [https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/ML_GeoCamera.py](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/ML_GeoCamera.py)
 *   **Jupyter Notebook:** [https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/ML_GeoCamera.ipynb](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/ML_GeoCamera.ipynb)
 *   **Модель машинного обучения (best.pt):** [https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/best.pt](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/best.pt)
-*   **Тест:**
+*   **Тест:** [https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/test.zip](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/test.zip)
 *   **Лицензия:** [https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/LICENSE](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/LICENSE)
   
 
