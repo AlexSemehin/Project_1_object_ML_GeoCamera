@@ -70,10 +70,6 @@
     2.  Запустите Jupyter Notebook: `jupyter notebook`
     3.  Откройте файл `ML_GeoCamera.ipynb` в браузере.
 
-    ```python
-    # Пример кода для запуска детекции
-    # (Вставьте примеры кода из вашего Notebook или скрипта)
-    ```
 
 ## Информация о зависимостях
 
@@ -84,7 +80,9 @@
 *   **Python-скрипт:** [https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/ML_GeoCamera.py](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/ML_GeoCamera.py)
 *   **Jupyter Notebook:** [https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/ML_GeoCamera.ipynb](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/ML_GeoCamera.ipynb)
 *   **Модель машинного обучения (best.pt):** [https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/best.pt](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/best.pt)
+*   **Тест:**
 *   **Лицензия:** [https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/LICENSE](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/LICENSE)
+  
 
 ## Поддержка
 
