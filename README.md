@@ -30,13 +30,7 @@
 ### 1. Требования
 
 *   Python 3.7+
-*   [Необходимые библиотеки]:  Установите следующие библиотеки Python (можно сделать это через pip):
-    ```bash
-    pip install -r requirements.txt # (если есть файл requirements.txt)
-    # ИЛИ
-    pip install opencv-python torch torchvision yolov5 #примерные зависимости
-    ```
-    (Заполните `requirements.txt` или перечислите библиотеки в явном виде.)
+*   ([Необходимые библиотеки](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/requirements.txt))
 
 ### 2. Установка
 
@@ -58,10 +52,8 @@
 3.  Установите необходимые библиотеки:
 
     ```bash
-    pip install -r requirements.txt # если есть requirements.txt
-    # ИЛИ
-    pip install opencv-python torch torchvision yolov5  # примерный список
-    ```
+    pip install -r requirements.txt 
+
 
 ### 3. Использование
 
@@ -85,7 +77,7 @@
 
 ## Информация о зависимостях
 
-Зависимости указаны в файле `requirements.txt` (если есть) или должны быть установлены вручную (см. раздел "Требования").  Основные зависимости включают `opencv-python`, `torch`, `torchvision`, `yolov5`.
+Зависимости указаны в файле `requirements.txt` или должны быть установлены вручную (см. раздел "Требования").  Основные зависимости включают `opencv-python`, `torch`, `torchvision`, `yolov5`.
 
 ## Ссылки на ресурсы
 
