@@ -18,7 +18,7 @@
 
 Детекцию тестового проекта (9628 изображений) программа выполняла с 12:41:00 до 14:18:00 (97 минут)
 
-![Пример детекции дорожных знаков]([images/detection_example.png](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/labels.jpg)) 
+![Пример детекции дорожных знаков](https://github.com/AlexSemehin/Project_1_object_ML_GeoCamera/blob/main/labels.jpg)
 
 ## Авторы
 
